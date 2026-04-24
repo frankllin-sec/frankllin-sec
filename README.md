@@ -1,4 +1,15 @@
 ![Banner](Banner.png)
+# 🛡️ My Cybersecurity Journey
+
+Documenting my path toward becoming to  Cyber Security Word.
+
+## 📊 Progress
+
+- ✅ Pre Security Path
+- ⬜ Splunk Core Certified User
+- ⬜ SOC 1
+- ⬜ Splunk Core Certified User
+- ⬜ CompTIA Security+
 
 <!--
 **frankllin-sec/frankllin-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
