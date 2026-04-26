@@ -19,7 +19,7 @@ Documenting my path toward becoming to  Cyber Security Word.
 ## 📊 Progress
 
 - ✅ Pre Security Path
-- ⬜ Splunk Core Certified User
+- ⬜ Cyber Security 101
 - ⬜ SOC 1
 - ⬜ Splunk Core Certified User
 - ⬜ CompTIA Security+
