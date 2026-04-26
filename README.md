@@ -10,6 +10,12 @@ Documenting my path toward becoming to  Cyber Security Word.
     <img src="https://img.shields.io/badge/📖%20View%20My%20Full%20Cybersecurity%20Journey-Click%20Here-7c3aed?style=for-the-badge"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/frankllin-sec/My-Projects/blob/main/README.md">
+    <img src="https://img.shields.io/badge/🗂️%20View%20My%20Projects-Click%20Here-7c3aed?style=for-the-badge"/>
+  </a>
+</p>
+
 ## 📊 Progress
 
 - ✅ Pre Security Path
