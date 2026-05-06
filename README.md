@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](https://raw.githubusercontent.com/frankllin-sec/phishing-simulation-lab/main/frankllin-soc.png)
 # 🛡️ My Cybersecurity Journey
 
 Documenting my path toward becoming to  Cyber Security Word.
