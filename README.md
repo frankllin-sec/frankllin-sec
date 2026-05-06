@@ -18,7 +18,7 @@ Documenting my path toward becoming to  Cyber Security Word.
 
 <p align="center">
   <a href="https://github.com/frankllin-sec/Labs-experience/blob/main/README.md">
-    <img src="https://img.shields.io/badge/🧪%20View%20My%20Labs-Click%20Here-0ea5e9?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🛡️%20View%20My%20Labs-Click%20Here-0ea5e9?style=for-the-badge"/>
   </a>
 </p>
 
